@@ -12,9 +12,6 @@ Input: n = 5
 Output: ["1","2","Fizz","4","Buzz"]
 */
 
-
-
-
 #include<iostream>
 using namespace std;
 vector<string> fizzBuzz(int n) {
