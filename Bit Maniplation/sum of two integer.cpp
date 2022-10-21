@@ -1,3 +1,10 @@
+/*
+Given two integers a and b, return the sum of the two integers without using the operators + and -.
+
+
+*/
+
+
 #include<iostream>
 using namespace std;
  int getSum(int a, int b) {
