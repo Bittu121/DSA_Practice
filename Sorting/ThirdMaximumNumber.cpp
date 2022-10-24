@@ -7,6 +7,9 @@ Output: 1
 
 Input: nums = [1,2]
 Output: 2
+
+Input: nums = [2,2,3,1]
+Output: 1
 */
 #include<iostream>
 #include<vector>
