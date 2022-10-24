@@ -5,6 +5,8 @@ If the third maximum does not exist, return the maximum number
 Input: nums = [3,2,1]
 Output: 1
 
+Input: nums = [1,2]
+Output: 2
 */
 #include<iostream>
 #include<vector>
