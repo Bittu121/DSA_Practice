@@ -9,6 +9,8 @@ Output: true
 Input: s = "race a car"
 Output: false
 
+Input: s = " "
+Output: true
 
 */
 
