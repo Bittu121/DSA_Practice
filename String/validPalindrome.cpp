@@ -6,6 +6,8 @@ Given a string s, return true if it is a palindrome, or false otherwise.
 Input: s = "A man, a plan, a canal: Panama"
 Output: true
 
+Input: s = "race a car"
+Output: false
 
 
 */
