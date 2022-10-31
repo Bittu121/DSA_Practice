@@ -5,6 +5,9 @@ Return the answer in an array.
 
 Input: nums = [8,1,2,2,3]
 Output: [4,0,1,1,3]
+
+Input: nums = [6,5,4,8]
+Output: [2,1,0,3]
 */
 
 
