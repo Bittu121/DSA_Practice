@@ -5,6 +5,9 @@ Output: [5,4,3,2,1]
 
 Input: head = [1,2]
 Output: [2,1]
+
+Input: head = []
+Output: []
 */
 #include<iostream>
 using namespace std;
