@@ -12,6 +12,8 @@ The number of nodes in the linked list should decrease by one.
 All the values before node should be in the same order.
 All the values after node should be in the same order.
 
+Input: head = [4,5,1,9], node = 5
+Output: [4,1,9]
 
  
  */
