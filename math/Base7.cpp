@@ -1,3 +1,7 @@
+/*
+Given an integer num, return a string of its base 7 representation.
+*/
+
 #include<iostream>
 using namespace std;
 string convertToBase7(int num){
