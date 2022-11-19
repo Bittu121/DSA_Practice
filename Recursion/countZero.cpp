@@ -1,3 +1,6 @@
+/*
+count Zeros
+*/
 #include<iostream>
 using namespace std;
 int  countZero(int n){
