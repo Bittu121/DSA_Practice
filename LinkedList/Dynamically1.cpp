@@ -1,4 +1,5 @@
 /*
+Basic fundamental of LinkedList
 */
 #include <iostream>
 using namespace std;
