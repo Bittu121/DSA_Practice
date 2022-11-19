@@ -1,5 +1,5 @@
 /*
-Basic fundamental of LinkedList
+Basic fundamental of Linked List (create Node of Linked List)
 */
 #include <iostream>
 using namespace std;
