@@ -1,3 +1,6 @@
+/*
+Populate the array
+*/
 #include<iostream>
 using namespace std;
 int PopulateArray(int *arr,int n){
