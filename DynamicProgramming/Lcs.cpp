@@ -12,7 +12,7 @@ A common subsequence of two strings is a subsequence that is common to both stri
 Input: text1 = "abcde", text2 = "ace" 
 Output: 3  
 Explanation: The longest common subsequence is "ace" and its length is 3.
- 
+ */
 */
 
 #include<iostream>
