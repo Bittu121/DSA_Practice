@@ -1,7 +1,10 @@
 /*
 Find the Length of string  
-input Bittu
-output 5
+Input Bittu
+Output 5
+
+Input Github
+Output 6
 */
 #include<iostream>
 #include<cstring>
