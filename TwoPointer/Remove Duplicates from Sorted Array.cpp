@@ -15,7 +15,7 @@ Do not allocate extra space for another array. You must do this by modifying the
 Input: nums = [1,1,2]
 Output: 2, nums = [1,2,_]
 
-
+*//
 */
 
 #include<iostream>
