@@ -23,7 +23,7 @@ Output: 2, nums = [1,2,_]
 #include<iostream>
 using namespace std;
 #include<vector>;
-int removeDuplicates(vector<int>& nums) {
+int removeDuplicates(vector<int>& nums){
     int ans = 0;
     for(int i = 1;i<nums.size(); i++){
         if(nums[i]!=nums[ans]){
