@@ -21,7 +21,7 @@
 
 
 
-
+find sum 
 
 
 #include<iostream>
