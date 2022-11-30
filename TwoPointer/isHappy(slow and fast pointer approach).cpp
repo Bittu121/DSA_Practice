@@ -1,6 +1,5 @@
 /*
 Write an algorithm to determine if a number n is happy.
-
 A happy number is a number defined by the following process:
 
 Starting with any positive integer, replace the number by the sum of the squares of its digits.
