@@ -20,10 +20,9 @@
 // }
 
 
-
+/*
 find sum 
-
-
+*/
 #include<iostream>
 using namespace std;
 int Sum(int*arr,int n){
