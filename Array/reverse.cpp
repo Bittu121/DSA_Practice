@@ -1,3 +1,6 @@
+/*
+Given an array the task is to reverse the array.
+*/
 #include<iostream>
 using namespace std;
 int reverseOfArray(int*arr,int n){
