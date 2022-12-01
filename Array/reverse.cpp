@@ -4,6 +4,8 @@ Input  : arr[] = {1, 2, 3}
 Output : arr[] = {3, 2, 1}
 Input :  arr[] = {4, 5, 1, 2}
 Output : arr[] = {2, 1, 5, 4}
+1 2 3 4 5 6 
+6 5 4 3 2 1
 */
 #include<iostream>
 using namespace std;
