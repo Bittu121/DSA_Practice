@@ -1,5 +1,7 @@
 /*
 Given an array the task is to reverse the array.
+Input  : arr[] = {1, 2, 3}
+Output : arr[] = {3, 2, 1}
 */
 #include<iostream>
 using namespace std;
