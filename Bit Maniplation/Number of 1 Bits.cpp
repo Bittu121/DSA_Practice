@@ -1,3 +1,7 @@
+/*
+Write a function that takes an unsigned integer and returns the number of '1' bits it has (also known as the Hamming weight).
+Note
+*/
 #include<iostream>
 using namespace std;
 int hammingWeight(uint32_t n) {
