@@ -5,6 +5,8 @@ Note that in some languages, such as Java, there is no unsigned integer type. In
 In Java, the compiler represents the signed integers using 2's complement notation. Therefore, in Example 3, the input represents the signed integer. -3.
 Input: n = 00000000000000000000000000001011
 Output: 3
+Input: n = 00000000000000000000000010000000
+Output: 1
 */
 #include<iostream>
 using namespace std;
