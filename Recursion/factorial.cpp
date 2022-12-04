@@ -1,5 +1,6 @@
 /*
 find the factorial 
+input 5
 */
 #include<iostream>
 using namespace std;
