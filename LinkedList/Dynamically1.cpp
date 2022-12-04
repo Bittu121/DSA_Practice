@@ -12,6 +12,7 @@ class Node{
         next=NULL;
     }
 };
+
 void print(Node*head){
     
 }
