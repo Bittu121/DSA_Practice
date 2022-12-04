@@ -1,5 +1,7 @@
 /*
 find the factorial 
+input 4
+output 24
 input 5
 output 120
 */
