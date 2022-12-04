@@ -1,6 +1,7 @@
 /*
 find the factorial 
 input 5
+output 120
 */
 #include<iostream>
 using namespace std;
