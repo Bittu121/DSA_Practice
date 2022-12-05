@@ -1,5 +1,4 @@
 /*
-
 Given an integer array nums sorted in non-decreasing order, remove the duplicates in-place such that 
 each unique element appears only once. The relative order of the elements should be kept the same.
 
@@ -16,8 +15,6 @@ Do not allocate extra space for another array. You must do this by modifying
 
 Input: nums = [1,1,2]
 Output: 2, nums = [1,2,_]
-
-
 */
 
 #include<iostream>
