@@ -20,5 +20,6 @@ char findTheDifference(string s, string t) {
     }
 int main(){
     string s,t;
-    
+    cin>>s>>t;
+    findTheDifference(s,t);
 }
