@@ -1,6 +1,7 @@
 /* check palindrome or not,
 T.C coding o/p 0(false), abcdcba o/p 1(true)
 */
+
 #include <bits/stdc++.h>
 #include <cstring>
 using namespace std;
