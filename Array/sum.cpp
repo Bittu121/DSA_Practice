@@ -1,3 +1,4 @@
+//sum of all the elements of the array
 #include<iostream>
 using namespace std;
 void Sum(int arr[],int n){
