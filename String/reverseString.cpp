@@ -23,6 +23,10 @@ void reverseString(vector<char>& s) {
 int main(){
     
     vector<char>s;
+    for(int i=0;i<s.size()-1){
+        int k;
+        s.push_back(k);
+    }
     reverseString(s);
     
 }
