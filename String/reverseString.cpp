@@ -21,8 +21,8 @@ void reverseString(vector<char>& s) {
     }
 }
 int main(){
-    /*
+    
     vector<char>s;
     reverseString(s);
-    */
+    
 }
