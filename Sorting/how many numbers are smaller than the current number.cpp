@@ -14,7 +14,6 @@ Output: [0,0,0,0]
 
 */
 
-
 #include<iostream>
 #include<vector>
 #include<map>
