@@ -1,3 +1,5 @@
+//count the number
+
 #include<iostream>
 using namespace std;
 int count(int n){
