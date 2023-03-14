@@ -1,3 +1,4 @@
+//Binary Search algorithm using recursive approach
 #include<bits/stdc++.h>
 using namespace std;
 int binarySearch(int*ans, int key, int low, int high) {
