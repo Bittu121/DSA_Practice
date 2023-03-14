@@ -31,4 +31,5 @@ int main(){
     cin>>key;
     int KeyPosition = binarySearch(ans, key, 0, n - 1);
     cout<<" KeyPosition : "<<KeyPosition;
+    delete [];
 }
