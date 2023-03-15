@@ -35,4 +35,5 @@ using namespace std;
         int a,b;
         cin>>a>>b;
         cout<<getSum(a,b);
+        return 0;
     }
