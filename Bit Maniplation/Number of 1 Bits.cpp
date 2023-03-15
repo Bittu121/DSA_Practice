@@ -10,6 +10,7 @@ Output: 1
 Input: n = 11111111111111111111111111111101
 Output: 31
 */
+
 #include<iostream>
 using namespace std;
 int hammingWeight(uint32_t n) {
