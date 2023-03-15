@@ -22,5 +22,5 @@ int hammingWeight(uint32_t n) {
     return count;
 }
 int main(){
-    
+    unit32_t;
 }
